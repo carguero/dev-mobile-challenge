@@ -102,3 +102,9 @@ As a User
 I want to see a detail of Pokémon
 So I can press an unlike button to unfavorite a Pokémon.
 ```
+
+
+## Instructions
+
+In order to implement the user stories listed above, please use the https://pokeapi.co/ as an API consumer
+
