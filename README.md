@@ -1,4 +1,4 @@
-## Challenge for Developers
+## Challenge for Mobile Developers
 
 ### Introduction
 This is our programming challenge. Our goal is to know more about your programming skill level and experience, and then we can be on the same page during the interview.
