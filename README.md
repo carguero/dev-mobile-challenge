@@ -106,5 +106,5 @@ So I can press an unlike button to unfavorite a Pokémon.
 
 ## Instructions
 
-In order to implement the user stories listed above, please use the https://pokeapi.co/ as an API consumer
+In order to implement the user stories listed above, please use the https://pokeapi.co/ An open RESTful API for Pokémon data
 
