@@ -13,7 +13,7 @@ The code is well written, clean, and cohesive.
 
 * There are well written automated tests (i.e., the unit and integration tests cover the expected behavior).
 
-* There is a linter/static code analys.
+* There is a linter/static code analysis.
 
 * There is an architecture approach.
 
@@ -91,7 +91,7 @@ So I can open a Pokémon to navigate to details of it.
 ```
 As a User
 I want to see a detail of Pokémon
-So I can press an like button to favorite a Pokémon.
+So I can press a like button to favorite a Pokémon.
 ```
 
 
